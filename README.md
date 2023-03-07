@@ -1,2 +1,1 @@
 # .github
-Community health files.
